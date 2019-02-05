@@ -23,6 +23,7 @@ optional = true
 version = '0.85.0'
 
 [features]
+# hardware = []
 piston_window_texture = ['piston_window']
 
 [package]
