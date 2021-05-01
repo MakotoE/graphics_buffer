@@ -24,7 +24,7 @@ version = '0.37.0'
 
 [dependencies.piston_window]
 optional = true
-version = '0.118.0'
+version = '0.114.0'
 
 [features]
 default = []
